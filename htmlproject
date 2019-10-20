@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html dir = "rtl">
+<html lang="en" dir="ltr">
+
+  <head>
+    <link rel='stylesheet' type='text/css' href="Style.css"
+    <meta charset="utf-8">
+     <img class= image1 src="Qassim_University_logo.gif" alt="Qassim University logo" height="70" width="200"></a>
+     <img class= image2 src="computer collage.png" alt="computer college.jpeg logo" height="70" width="100"></a>
+    <title>مـــــرجـــعك </title>
+    <link rel="stylesheet" href="style.css">
+    <p class=text1> مرجعك <br> &nbsp;&nbsp;
+     جامعة القصيم - كلية الحاسب </p>
+   </head>
+  <body>
+
+    <nav class= "menu">
+    <ul>
+    <li> <a class = "menu-item" href="#">الرئيسية </a> &nbsp;&nbsp; </li>
+    <li> <a class = "menu-item" href="#"> المراجع </a>
+      <div class="sub-content">
+            <div class= "sub-drop">
+              <ul>
+              <li><a href="#">مستوى ثالث</a></li><br>
+              <li><a href="#">مستوى رابع</a></li><br>
+              <li><a href="#">مستوى خامس</a></li><br>
+                </ul>
+            </div>
+          </div>
+      </li>
+    <li> <a class = "menu-item" href="#">البرامج التدريبية</a>&nbsp;&nbsp;</li>
+    <li> <a class = "menu-item" href="#">الملاحظات والمقترحات</a>&nbsp;&nbsp;</li>
+    <li> <a class = "menu-item" href="#">أدوات مساعدة</a>&nbsp;&nbsp;</li>
+    <li> <a class = "menu-item" href="#">تسجيل دخول</a>&nbsp;&nbsp;</li>
+    </ul>
+    </nav>
+
+
+      <h4>الرؤية</h4>
+        <p> تحقيق الريادة النوعية والتميز في تطوير العالم الجامعي </p>
+        <h4>الرســالة</h4>
+        <p>نسعى لزيادة روح التعاون والشغف لدى الطلاب
+        والى توسيع مداركهم وقدراتهم</p>
+<p> تواصل معنا : </p>
+        <a href="https:www.twitter.com/abeersalh166">
+      <img src="twet.jpeg" alt="start" height="30" width="20"></a>&nbsp;&nbsp;
+      <a href="mailto:abeersalh166@gmail.com" >
+        <img src="emeil.jpeg" alt="cloud" height="30" width="20"> </a>
+
+
+
+</body>
+</html>
